@@ -3,7 +3,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io/)
 [![C#](https://img.shields.io/badge/C%23-7.3-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![AES 256](https://img.shields.io/badge/AES-256-bit-yellow)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
 ## Overview
 
@@ -25,3 +24,19 @@ This program can both encrypt and decrypt text using AES 256-bit encryption, lev
 
 ```bash
 git clone https://github.com/JimmyVS/AES-256-Encryption.git
+```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Author
+
+-    JimmyVS - Main Developer
+-    GitHub: JimmyVS
+
+Happy coding! 💻✨
